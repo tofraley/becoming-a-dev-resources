@@ -6,6 +6,7 @@
 
 ## Youtube
 
+* [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 * [DevTips](https://www.youtube.com/user/DevTipsForDesigners) - early stuff is more CSS; later stuff is more of a variety show of code related stuff
 * [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) - mostly javascript; not really tutorials, but fun to watch
 * [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA) - a variety of languages
